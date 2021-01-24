@@ -1,4 +1,4 @@
-# Stats
+# User Stats
 
 {% api-method method="get" host="https://bremea.com" path="/api/countbot/stats/:id" %}
 {% api-method-summary %}
