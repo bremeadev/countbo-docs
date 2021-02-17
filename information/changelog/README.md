@@ -4,11 +4,52 @@ description: CountBot's current and stable version
 
 # Changelog
 
-**Current stable version \(live\):** v2.3.3
+Current stable version \(live\): **v2.4.0**
 
-**Current beta version:** v2.4.0
+Current beta version: v2.4.1Beta version release date: **February 17th 2021**
 
-**Beta version release date:** February 5th 2021
+## **v2.4.0 Changelog \(Live\)**
+
+Launched February 15th, 2021
+
+**Added**
+
+* New avatar
+* New pixelated emojis
+* Revamped shop
+* New web dashboard
+* Daily Deals
+* Coin Shop
+* Chests in Shop
+* Badges in Shop
+* Freeze Curse
+* Super Spell
+* Luck Spell
+* New icons for all items
+* New items page on dashboard
+* New badges page on dashboard
+* Leaderboard API now returns top 100
+* New weekly shop chest
+* Weekly shop now has 3 badges
+* Language command
+* Translation system
+* New random item value system
+* Updated Chest API
+* New chest opening in bot
+* c;shop now shows daily deals
+* Fixed typos
+* Sharding
+* Help menu no longer inline
+* API now runs through https
+* New web api proxy \(https://countbot.bremea.com/apiproxy/\)
+
+**Removed**
+
+* Staff commands from help menu
+* Chest reward for voting
+* All old items & badges
+* “All items” section from shop
+* Weekly Deal/Infinite Coins bug
 
 ## v2.3.3 Changelog
 

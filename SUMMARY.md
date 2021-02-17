@@ -15,7 +15,7 @@
 
 * [Shop](information/shop.md)
 * [Languages](information/languages.md)
-* [Partners](information/partners/README.md)
+* [Partners & Affiliates](information/partners/README.md)
   * [DeccaBots](information/partners/deccabots.md)
   * [Discord Labs](information/partners/discordlabs.md)
   * [Magic8](information/partners/magic8.md)

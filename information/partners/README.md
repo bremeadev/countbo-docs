@@ -1,4 +1,4 @@
-# Partners
+# Partners & Affiliates
 
 ![](../../.gitbook/assets/decca.png)
 

@@ -4,6 +4,10 @@
 
 The developers of CountBot have spent the past few weeks moving all messages into this repository. In addition, CountBot directly pulls its languages from here and works pretty fast. Come join the project and help translate CountBot!
 
+{% hint style="info" %}
+The GitHub repository can be found [**here**](https://github.com/bremeadev/languages).
+{% endhint %}
+
 \*_Please note that we are **not** looking for complete translations! Although we'd greatly appreciate that, we aren't rushing you to complete the entire English file translated in one night._
 
 \*_Please also note that **English** is the most accurate and up to date language. It is up to other translators to match their languages with the English file. We have a **News Channel** in our_ [_**Support Server**_](https://bremea.com/discord) _that posts all updates of the **en.json** file._
@@ -11,7 +15,7 @@ The developers of CountBot have spent the past few weeks moving all messages int
 ### Instructions
 
 * Double check to make sure your language is present
-* Create a fork of this repository and/or store the English file \([en.json](https://github.com/bremeadev/language/blob/master/languages/en.json)\) file on your computer
+* Create a fork of this repository and/or store the English file \([**en.json**](https://github.com/bremeadev/language/blob/master/languages/en.json)\) file on your computer
 * Please make sure you are familiar with [**JSON**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) syntax, [**arrays**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [**objects**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) and [**strings**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)\*\*\*\*
 * Please make sure you understand [**Markdown**](https://www.markdownguide.org/cheat-sheet/)\*\*\*\*
 * Translate the English \(en.json\) to your fluently known language
@@ -46,7 +50,7 @@ Here is a list of the placeholders. Be sure to check for updates here!
 | {COINS} | Coins of whoever |
 | {GUILDS} | Number of servers |
 | {POWERUPS} | Powerups of whoever |
-| {USER} | @Message Author |
+| {USER} | @author |
 | {VOTES} | Number of votes \(user or total\) |
 | {XP} | XP of whoever |
 
